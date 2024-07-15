@@ -8,3 +8,5 @@ The commonly used model structures used includes:
 3. Transformer for sequence to sequence prediction.
 4. LSTR for sequence to sequence prediction.
 
+### Dig deeper in neural networks and math
+1. How transformer is related to the integration? 
